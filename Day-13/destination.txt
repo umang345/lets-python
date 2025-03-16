@@ -1,0 +1,7 @@
+Hello World!
+This is a new line
+Append op in placeAppend op in placeAppend op in place
+Append op in place
+First Line
+Second Line
+Third Line
